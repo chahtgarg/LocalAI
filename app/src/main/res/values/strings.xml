@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocalAI</string>
+    <string name="accessibility_description">Lets LocalAI read on-screen text when you tap a button and summarize it with an on-device model. Nothing leaves your phone.</string>
+</resources>
